@@ -5,4 +5,5 @@ The purpose was to create a text editor in Java with the basics shortcut interac
 
 The second objectif was to get familiar with UML diagram and JUnit.
 
-<a href="/version2.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<iframe src="http://docs.google.com/gview?url=https://github.com/Hyanaki/Text_editor/version2.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
