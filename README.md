@@ -5,4 +5,4 @@ The purpose was to create a text editor in Java with the basics shortcut interac
 
 The second objectif was to get familiar with UML diagram and JUnit.
 
-![screenshot](https://github.com/Hyanaki/Text_editor/version2.pdf)
+<a href="/version2.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
